@@ -1,0 +1,6 @@
+Vilija 4 8 3 8 4
+Dalius 5 8 9 8 7
+Lina 6 7 9 4 7
+Modestas 9 5 8 5 7
+Bernardas 4 9 6 8 9
+Skirmantas 10 10 10 10 9
